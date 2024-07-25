@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tanishka Dande</h1>
 <h3 align="center">A passionate Developer from India</h3>
-<img align="right" alt="Coding" width="400" src=" ">
+<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/11142691-Girl-with-a-laptop-Illustration">
 
 📫 How to reach me **tanishkadande1@gmail.com**
 
